@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spcity)
+
+
+
+
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=spcity&theme=xcode" /> </div>
+
+
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=spcity" /> </div>
