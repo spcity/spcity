@@ -18,12 +18,9 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spcity)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spcity&layout=compact&theme=tokyonight)
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=spcity&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spcity&layout=compact)
 
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=spcity&theme=xcode" /> </div>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/spcity/count.svg)
